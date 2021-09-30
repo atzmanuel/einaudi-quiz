@@ -16,7 +16,7 @@ export const questions = writable('questions', [
                 
             },
             {
-                text: "B - RISPOSTA 2",
+                text: "B — RISPOSTA 2",
                 valid: false,
             },
             {
@@ -25,7 +25,7 @@ export const questions = writable('questions', [
                 
             },
             {
-                text: "D - RISPOSTA 4",
+                text: "D — RISPOSTA 4",
                 valid: false,
             }
         ]
@@ -43,7 +43,7 @@ export const questions = writable('questions', [
                 
             },
             {
-                text: "B - RISPOSTA 2",
+                text: "B — RISPOSTA 2",
                 valid: false,
             },
             {
@@ -52,7 +52,7 @@ export const questions = writable('questions', [
                 
             },
             {
-                text: "D - RISPOSTA 4",
+                text: "D — RISPOSTA 4",
                 valid: false,
             }
         ]

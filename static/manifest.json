@@ -1,8 +1,8 @@
 {
-	"background_color": "#ffffff",
-	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"background_color": "#f1ede7",
+	"theme_color": "#e67e22",
+	"name": "Einaudi Quiz Orientamento",
+	"short_name": "Einquiz",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
