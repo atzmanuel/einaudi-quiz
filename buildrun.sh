@@ -1,6 +1,6 @@
 #!/bin/bash
 
-npm run export
+npm install && npm run export
 
 docker container stop einaudi-quiz && docker container rm einaudi-quiz
 docker image rm einaudi-quiz
