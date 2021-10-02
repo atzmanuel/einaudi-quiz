@@ -63,7 +63,7 @@
       </div>
     {/each}
     <h2>Soluzione:</h2>
-    <h3>{question.question}</h3>
+    <h3>{question.solution}</h3>
     <Button
       value={"Avanti"}
       arrow={true}
